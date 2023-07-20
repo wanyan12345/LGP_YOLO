@@ -10,7 +10,7 @@ If you get interested,just try it!
 
 Thanks for you browsing!
 
-[Notice}:Due to the limit of github,if you want the weight file of LGP_YOLO,please click here:
+[Notice]:Due to the limit of github,if you want the weight file of LGP_YOLO,please click here:
 
 links：https://pan.baidu.com/s/1N1SO_z68VA08yMILHsa8Lg?pwd=tmzv 
 
